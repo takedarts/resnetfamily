@@ -120,7 +120,7 @@ class Result(object):
       if item in paths:
         continue
 
-      meta_list.append((item, False, item))
+      meta_list.append((item, True, item))
 
     with open(os.path.join(self.path, 'meta.txt'), 'w') as handle:
       for meta in meta_list:
