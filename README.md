@@ -88,10 +88,10 @@ DIRECTORY_3: FLAG_3/NAME_3
 
 ## Refferences
 
-1. <a name="#ref1"></a> [Loshchilov, Ilya, and Frank Hutter. "Sgdr: Stochastic gradient descent with warm restarts." (2016).](https://arxiv.org/abs/1608.03983)
-2. <a name="#ref2"></a> [He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. (2016).](https://arxiv.org/abs/1512.03385)
-3. <a name="#ref3"></a> [Zagoruyko, Sergey, and Nikos Komodakis. "Wide residual networks." arXiv preprint arXiv:1605.07146 (2016).](https://arxiv.org/abs/1605.07146)
-4. <a name="#ref4"></a> [Han, Dongyoon, Jiwhan Kim, and Junmo Kim. "Deep pyramidal residual networks." arXiv preprint arXiv:1610.02915 (2016).](https://arxiv.org/abs/1610.02915)
-5. <a name="#ref5"></a> [Huang, Gao, et al. "Densely connected convolutional networks." arXiv preprint arXiv:1608.06993 (2016).](https://arxiv.org/abs/1608.06993)
-6. <a name="#ref6"></a> [Xie, Saining, et al. "Aggregated residual transformations for deep neural networks." arXiv preprint arXiv:1611.05431 (2016).](https://arxiv.org/abs/1611.05431)
-7. <a name="#ref7"></a> [Gastaldi, Xavier. "Shake-Shake regularization." arXiv preprint arXiv:1705.07485 (2017).](https://arxiv.org/abs/1705.07485)
+1. <a name="ref1"></a> [Loshchilov, Ilya, and Frank Hutter. "Sgdr: Stochastic gradient descent with warm restarts." (2016).](https://arxiv.org/abs/1608.03983)
+2. <a name="ref2"></a> [He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. (2016).](https://arxiv.org/abs/1512.03385)
+3. <a name="ref3"></a> [Zagoruyko, Sergey, and Nikos Komodakis. "Wide residual networks." arXiv preprint arXiv:1605.07146 (2016).](https://arxiv.org/abs/1605.07146)
+4. <a name="ref4"></a> [Han, Dongyoon, Jiwhan Kim, and Junmo Kim. "Deep pyramidal residual networks." arXiv preprint arXiv:1610.02915 (2016).](https://arxiv.org/abs/1610.02915)
+5. <a name="ref5"></a> [Huang, Gao, et al. "Densely connected convolutional networks." arXiv preprint arXiv:1608.06993 (2016).](https://arxiv.org/abs/1608.06993)
+6. <a name="ref6"></a> [Xie, Saining, et al. "Aggregated residual transformations for deep neural networks." arXiv preprint arXiv:1611.05431 (2016).](https://arxiv.org/abs/1611.05431)
+7. <a name="ref7"></a> [Gastaldi, Xavier. "Shake-Shake regularization." arXiv preprint arXiv:1705.07485 (2017).](https://arxiv.org/abs/1705.07485)
