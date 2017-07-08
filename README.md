@@ -86,7 +86,7 @@ DIRECTORY_3: FLAG_3/NAME_3
 - FLAG : グラフに含めるならTrueを指定します
 - NAME : グラフの凡例に表示する名前です
 
-## Refferences
+## References
 
 1. <a name="ref1"></a> [Loshchilov, Ilya, and Frank Hutter. "Sgdr: Stochastic gradient descent with warm restarts." (2016).](https://arxiv.org/abs/1608.03983)
 2. <a name="ref2"></a> [He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. (2016).](https://arxiv.org/abs/1512.03385)
