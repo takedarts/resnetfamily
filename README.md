@@ -31,7 +31,7 @@ step : 学習回数1/2と3/4のときに、学習係数を0.1倍します。
 cosine : Cosine Annealing without Restart [[1](#ref1)]  
 restart : Cosine Annealing with Restart [[1](#ref1)]  
 - `-r RATE` : 学習係数の初期値を指定します(default: 0.1)。
-- `-m MOMEMTUM` : モーメンタムの値を指定します(default: 0.9)。
+- `-m MOMENTUM` : モーメンタムの値を指定します(default: 0.9)。
 - `-d DECAY` : Weight Decayの値を指定します(default: 0.0001)。
 - `-e EPOCH` : 学習回数を指定します(default: 300)。
 - `-b BATCH` : バッチサイズを指定します(default: 128)。
