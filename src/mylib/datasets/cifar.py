@@ -56,8 +56,8 @@ def get_cifar100():
   '''
   train, test = chainer.datasets.cifar.get_cifar100()
 
-  train_dataset = CifarDataset(train._datasets[0], train._datasets[1], padding=4, flip=True)
-  test_dataset = CifarDataset(test._datasets[0], test._datasets[1], padding=0, flip=False)
+  train_dataset = CifarDataset(train._datasets[0], train._datasets[1], pad=4, flip=True)
+  test_dataset = CifarDataset(test._datasets[0], test._datasets[1], pad=0, flip=False)
 
   return train_dataset, test_dataset
 
