@@ -23,7 +23,7 @@ def load_dataset(name):
   elif name == 'cifar10':
     return (10,) + mylib.datasets.get_cifar10()
   elif name == 'cifar100':
-    return (10,) + mylib.datasets.get_cifar100()
+    return (100,) + mylib.datasets.get_cifar100()
 
 
 def main():
